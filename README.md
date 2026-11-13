@@ -14,23 +14,23 @@ A hands-on cybersecurity portfolio project demonstrating endpoint telemetry moni
 ## 🔍 Lab Evidence & Screenshots
 
 ### 1. PowerShell Execution Monitoring
-![PowerShell Execution](screenshots/01_powershell_execution.jpg)
+![PowerShell Execution](images/01_powershell_execution.jpg)
 *Capturing PowerShell script execution through Sysmon telemetry.*
 
 ### 2. Command Line Abuse Detection
-![Command Line Abuse](screenshots/02_cmd_abuse.jpg)
+![Command Line Abuse](images/02_cmd_abuse.jpg)
 *Tracking command-line execution anomalies.*
 
 ### 3. Parent-Child Process Relationship
-![Parent Child Process](screenshots/03_parent_child_process.jpg)
+![Parent Child Process](images/03_parent_child_process.jpg)
 *Analyzing process lineage to identify suspicious execution chains.*
 
 ### 4. Encoded Command Analysis
-![Encoded Command](screenshots/04_encoded_command.jpg)
+![Encoded Command](images/04_encoded_command.jpg)
 *Identifying obfuscated command lines and payloads.*
 
 ### 5. Wazuh SIEM Ingestion & Dashboard
-![Wazuh Sysmon Ingestion](screenshots/05_wazuh_sysmon_ingestion.png)
+![Wazuh Sysmon Ingestion](images/05_wazuh_sysmon_ingestion.png)
 *Real-time log ingestion and event timelines on the Wazuh SIEM dashboard.*
 
 ---
